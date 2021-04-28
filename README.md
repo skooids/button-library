@@ -23,6 +23,6 @@ Buttons that are hoverable. => `https://github.com/Kqpa/button-library/blob/main
 
 "Disabled Buttons". => `https://github.com/Kqpa/button-library/blob/main/noclick-button.html`
 
-- ###  Shadow Button
+- ###  Shadow Button
 
 Buttons with Shadows. => `https://github.com/Kqpa/button-library/blob/main/shadow-button.html`
