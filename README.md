@@ -7,14 +7,14 @@ These are some usefull buttons that i know or made. Some of the buttons inside t
 
 It's the most simple button in the repository => `https://github.com/Kqpa/button-library/blob/main/basic-button.html`
 
-- ### Bordered Button
+- ###  Bordered Button
 
 Button HTML with borders. => `https://github.com/Kqpa/button-library/blob/main/bordered-button.html`
 
-- ### Color Button
+- ###  Color Button
 
 Buttons with colors. => `https://github.com/Kqpa/button-library/blob/main/color-button.html`
 
-- ### Hoverable Buttons
+- ###  Hoverable Buttons
 
 Buttons that are hoverable. => `https://github.com/Kqpa/button-library/blob/main/hoverable-buttons.html`
