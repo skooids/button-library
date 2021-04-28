@@ -10,3 +10,11 @@ It's the most simple button in the repository => `https://github.com/Kqpa/button
 - ### Bordered Button
 
 Button HTML with borders. => `https://github.com/Kqpa/button-library/blob/main/bordered-button.html`
+
+- ### Color Button
+
+Buttons with colors. => `https://github.com/Kqpa/button-library/blob/main/color-button.html`
+
+- ### Hoverable Buttons
+
+Buttons that are hoverable. => `https://github.com/Kqpa/button-library/blob/main/hoverable-buttons.html`
